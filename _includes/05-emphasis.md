@@ -1,7 +1,4 @@
-*This text will be italic*
-_This will also be italic_
+*HAVE A GOOD DAY!*
 
-**This text will be bold**
-__This will also be bold__
+**HAVE FUN!**
 
-_You **can** combine them_
